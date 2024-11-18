@@ -1,5 +1,8 @@
 # distance_metrics_python
 
+Uses:
+- scipy
+- sklearn
 
 ```
     profile = {
